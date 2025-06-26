@@ -1,7 +1,5 @@
 # Automated ServiceNow Incident Triage with Google Gemini
 
----
-
 This project provides a powerful solution for IT operations teams by automating the triage of high-priority incidents from a ServiceNow instance. It fetches active, critical incidents, uses Google's Gemini Pro model to analyze patterns and generate actionable insights, and produces a concise summary report.
 
 ## Features
