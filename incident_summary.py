@@ -17,7 +17,7 @@ SNOW_API_PATH = "/api/1775050/gemini_integration/incidents/high_priority"
 SNOW_USERNAME = os.getenv("SNOW_USERNAME")
 SNOW_PASSWORD = os.getenv("SNOW_PASSWORD")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-GEMINI_MODEL = "gemini-1.5-flash"
+GEMINI_MODEL = "gemini-2.0-flash"
 
 # --- LOGGING SETUP ---
 def setup_logging():
